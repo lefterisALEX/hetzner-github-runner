@@ -1,4 +1,4 @@
-name: 'Hetzner Cloud Self-Hosted Runner for GitHub CI'
+name: 'Create a self hoster runner in hetzner'
 description: 'Automatically start cloud instances in the Hetzner Cloud as self-hosted runners for GitHub repositories.'
 inputs:
   hetzner-api-key:
