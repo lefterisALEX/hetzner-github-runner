@@ -1,8 +1,7 @@
 # GitHub Action for Hetzner Cloud Self-Hosted Runners
 
-Automatically start cloud instances in the Hetzner Cloud as self-hosted runners
-for GitHub repositories. These are started and stopped automatically before and
-after the GitHub CI run.
+Fork of https://github.com/marketplace/actions/hetzner-cloud-self-hosted-runner-for-github-ci
+Only difference is that will skip the deregistration/delete of runner.
 
 ## Usage
 
